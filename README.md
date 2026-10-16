@@ -47,7 +47,11 @@ I use **SQL Server, Power BI, Power Query, and Advanced Excel** to prepare data,
 
 ## Impact Metrics
 
-![15+ years of finance experience; 25+ outpatient clinics across two medical complexes; 151,865 transactions in the SQL cleaning project](./assets/impact-metrics.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/impact-metrics-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/impact-metrics-light.svg">
+  <img src="./assets/impact-metrics-light.png" alt="15+ years of finance experience; 25+ outpatient clinics across two medical complexes; 151,865 transactions in the SQL cleaning project" width="100%">
+</picture>
 
 *Career figures describe professional experience and financial management scope. The transaction count is documented in the linked SQL project. These figures describe scope and scale, rather than measured efficiency gains.*
 
@@ -57,7 +61,13 @@ I use **SQL Server, Power BI, Power Query, and Advanced Excel** to prepare data,
 
 ### 01 · Hospital Financial Data Cleaning SQL
 
-[![Hospital Financial Data Cleaning SQL — data cleaning, validation and anonymization](./assets/project-sql-cleaning.svg)](https://github.com/AHMEDATIAA85/Hospital-Financial-Data-Cleaning-SQL)
+<a href="https://github.com/AHMEDATIAA85/Hospital-Financial-Data-Cleaning-SQL">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sql-cleaning-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-sql-cleaning-light.svg">
+  <img src="./assets/project-sql-cleaning-light.png" alt="Hospital Financial Data Cleaning SQL — data cleaning, validation and anonymization" width="100%">
+</picture>
+</a>
 
 **Preparing healthcare financial data for reliable analysis.**
 
@@ -77,7 +87,13 @@ A SQL Server project covering **151,865 transactions**, focused on cleaning, sta
 
 ### 02 · Hospital Management Dashboard PBI
 
-[![Hospital Management Dashboard PBI — illustrative analytical dashboard](./assets/project-power-bi.svg)](https://github.com/AHMEDATIAA85/Hospital-Management-Dashboard-PBI)
+<a href="https://github.com/AHMEDATIAA85/Hospital-Management-Dashboard-PBI">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-power-bi-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-power-bi-light.svg">
+  <img src="./assets/project-power-bi-light.png" alt="Hospital Management Dashboard PBI — illustrative analytical dashboard" width="100%">
+</picture>
+</a>
 
 **Making operational and financial performance easier to explore.**
 
@@ -97,7 +113,13 @@ A **two-page Power BI report** combining an operational overview with detailed p
 
 ### 03 · Hospital Management SQL System
 
-[![Hospital Management SQL System — relational structure connecting employees, services and transactions](./assets/project-sql-system.svg)](https://github.com/AHMEDATIAA85/Hospital-Management-SQL)
+<a href="https://github.com/AHMEDATIAA85/Hospital-Management-SQL">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/project-sql-system-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/project-sql-system-light.svg">
+  <img src="./assets/project-sql-system-light.png" alt="Hospital Management SQL System — relational structure connecting employees, services and transactions" width="100%">
+</picture>
+</a>
 
 **Connecting relational database design with financial reporting.**
 
